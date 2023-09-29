@@ -1,0 +1,135 @@
+[
+  {
+      "name": "SonarQube",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "isNew": "TRUE",
+      "description": "SonarQube is a Code Quality Assurance tool that collects and analyzes source code."
+  },
+  {
+      "name": "Xray Test Management",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "isNew": "TRUE",
+      "description": "Xray is a complete Test Management tool for Jira. It is a full-featured app that does not require any other software in order to run."
+  },
+  {
+      "name": "PACT",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "isNew": "TRUE",
+      "description": "Pact is a code-first contract testing tool, which requires access to the code on both sides of an integration point."
+  },
+  {
+      "name": "AXE",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "isNew": "TRUE",
+      "description": "AXE is an open-source accessibility testing tool used to identify accessibility issues in web applications."
+  },
+  {
+      "name": "Browserstack",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "isNew": "TRUE",
+      "description": "Browser Stack is a cloud-based testing tool. Using this tool, developers and testers can do the cross-browser testing of various web and mobile applications in different web browsers."
+  },
+  {
+      "name": "WAVE",
+      "ring": "trial",
+      "quadrant": "tools",
+      "isNew": "TRUE",
+      "description": "WAVE is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities."
+  },
+  {
+      "name": "Postman",
+      "ring": "hold",
+      "quadrant": "tools",
+      "isNew": "TRUE",
+      "description": "POSTMAN is an API client used to develop, test, share and document APIs."
+  },
+  {
+    "name": "Appium",
+    "ring": "adopt",
+    "quadrant": "frameworks & languages",
+    "isNew": "TRUE",
+    "description": "Appium is an open-source framework that allows QAs to conduct automated app testing on different platforms like Android, iOS, and Windows."
+  },
+  {
+    "name": "Flood.io with Element",
+    "ring": "adopt",
+    "quadrant": "frameworks & languages",
+    "isNew": "TRUE",
+    "description": "Flood IO is a load testing platform that executes globally-distributed performance tests from open source tools."
+  },
+  {
+    "name": "Flood.io with JMeter",
+    "ring": "adopt",
+    "quadrant": "frameworks & languages",
+    "isNew": "TRUE",
+    "description": "Flood IO is a load testing platform that executes globally-distributed performance tests from open source tools."
+  },
+  {
+    "name": "PactumJ - Typescript/JavaScript",
+    "ring": "adopt",
+    "quadrant": "frameworks & languages",
+    "isNew": "TRUE",
+    "description": "PactumJS is a test framework focused on API testing."
+  },
+  {
+    "name": "RestAssured - Java",
+    "ring": "adopt",
+    "quadrant": "frameworks & languages",
+    "isNew": "TRUE",
+    "description": "REST Assured is a Java package used to test and validate Restful Web Services."
+  },
+  {
+    "name": "Serenity BDD - Java",
+    "ring": "adopt",
+    "quadrant": "frameworks & languages",
+    "isNew": "TRUE",
+    "description": "Serenity BDD is a framework and open source library for the creation of automated software testing for code in development"
+  },
+  {
+    "name": "Playwright - Typescript/JavaScript",
+    "ring": "trial",
+    "quadrant": "frameworks & languages",
+    "isNew": "TRUE",
+    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API"
+  },
+  {
+    "name": "Shift-Left approach",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "The Shift Left approach intends to identify and resolve bugs as early as possible in the development process"
+  },
+  {
+    "name": "Exploratory Testing",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "Exploratory testing is the practice of allowing testers to enter a product and find bugs and errors without the help of a script or test cases"
+  },
+  {
+    "name": "Performance Testing",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "Performance testing is the practice of evaluating how a system performs in terms of responsiveness and stability under a particular workload"
+  },
+  {
+    "name": "Automation Testing",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "Automated testing is a software testing technique that automates the process of validating the functionality of software and ensures it meets requirements before being released into production"
+  },
+  {
+    "name": "Behavior-Driven Development (BDD)",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "BDD is a software development process that goes well with agile software development process that encourages collaboration among developers, quality assurance experts, and customer representatives in a software project."
+  }
+]
