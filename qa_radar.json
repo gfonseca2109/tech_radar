@@ -51,49 +51,49 @@
   {
     "name": "Appium",
     "ring": "adopt",
-    "quadrant": "frameworks & languages",
+    "quadrant": "languages & frameworks",
     "isNew": "TRUE",
     "description": "Appium is an open-source framework that allows QAs to conduct automated app testing on different platforms like Android, iOS, and Windows."
   },
   {
     "name": "Flood.io with Element",
     "ring": "adopt",
-    "quadrant": "frameworks & languages",
+    "quadrant": "languages & frameworks",
     "isNew": "TRUE",
     "description": "Flood IO is a load testing platform that executes globally-distributed performance tests from open source tools."
   },
   {
     "name": "Flood.io with JMeter",
     "ring": "adopt",
-    "quadrant": "frameworks & languages",
+    "quadrant": "languages & frameworks",
     "isNew": "TRUE",
     "description": "Flood IO is a load testing platform that executes globally-distributed performance tests from open source tools."
   },
   {
     "name": "PactumJ - Typescript/JavaScript",
     "ring": "adopt",
-    "quadrant": "frameworks & languages",
+    "quadrant": "languages & frameworks",
     "isNew": "TRUE",
     "description": "PactumJS is a test framework focused on API testing."
   },
   {
     "name": "RestAssured - Java",
     "ring": "adopt",
-    "quadrant": "frameworks & languages",
+    "quadrant": "languages & frameworks",
     "isNew": "TRUE",
     "description": "REST Assured is a Java package used to test and validate Restful Web Services."
   },
   {
     "name": "Serenity BDD - Java",
     "ring": "adopt",
-    "quadrant": "frameworks & languages",
+    "quadrant": "languages & frameworks",
     "isNew": "TRUE",
     "description": "Serenity BDD is a framework and open source library for the creation of automated software testing for code in development"
   },
   {
     "name": "Playwright - Typescript/JavaScript",
     "ring": "trial",
-    "quadrant": "frameworks & languages",
+    "quadrant": "languages & frameworks",
     "isNew": "TRUE",
     "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API"
   },
